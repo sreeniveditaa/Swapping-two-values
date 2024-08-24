@@ -19,6 +19,22 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 
+```
+# Developed by: Sree Niveditaa Saravanan
+# Register no: 212223230213
+```
+```
+a = int(input())
+b = int(input())
+temp = a
+a = b
+b = temp
+print('Swapped values are:',a,b)
+```
+
+## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/b02c5e2a-c146-49b9-b190-62a8bc22ef5f)
 
 
 ## RESULT:
