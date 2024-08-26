@@ -47,7 +47,8 @@ print('Swapped values are:',a,b)
 
 ## OUTPUT:
 
-![Screenshot 2024-08-24 145012](https://github.com/user-attachments/assets/8d73c261-c453-4621-ab6f-5f4d1db9eb52)
+![Screenshot 2024-08-24 145030](https://github.com/user-attachments/assets/8f18d472-3cf5-4d39-95e6-e8ea3302ec6b)
+
 
 
 
